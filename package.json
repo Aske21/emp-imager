@@ -1,5 +1,5 @@
 {
-  "name": "empero-imager",
+  "name": "emp-imager",
   "version": "1.0.0",
   "description": "",
   "main": "ImageController.js",
